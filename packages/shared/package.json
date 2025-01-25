@@ -1,0 +1,41 @@
+{
+  "name": "@intmax2-function/shared",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "dependencies": {
+    "@google-cloud/firestore": "^7.11.0",
+    "@google-cloud/storage": "^7.15.0",
+    "@hono/node-server": "^1.13.7",
+    "abitype": "^1.0.8",
+    "alchemy-sdk": "^3.5.1",
+    "axios": "^1.7.9",
+    "bignumber.js": "^9.1.2",
+    "date-fns": "^4.1.0",
+    "envalid": "^8.0.0",
+    "ethers": "^6.13.5",
+    "hono": "^4.6.17",
+    "hono-rate-limiter": "^0.4.2",
+    "http-status": "^1.8.1",
+    "jsonwebtoken": "^9.0.2",
+    "pino": "^9.6.0",
+    "pino-pretty": "^13.0.0",
+    "poseidon-goldilocks": "^0.2.3",
+    "semver": "^7.6.3",
+    "simple-git": "^3.27.0",
+    "viem": "^2.22.10",
+    "zod": "^3.24.1"
+  },
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "tsx watch --env-file=.env src/index.ts",
+    "build": "rm -rf dist tsconfig.tsbuildinfo && tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "packageManager": "yarn@4.6.0",
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/semver": "^7",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

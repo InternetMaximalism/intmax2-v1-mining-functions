@@ -1,0 +1,12 @@
+[
+  {
+    "symbol": "ETH",
+    "type": "native",
+    "decimals": 18,
+    "contractAddress": null,
+    "points": [
+      { "amount": 1000000000000000000, "points": 10 },
+      { "amount": 100000000000000000, "points": 1 }
+    ]
+  }
+]

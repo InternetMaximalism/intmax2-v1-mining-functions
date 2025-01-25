@@ -1,0 +1,20 @@
+{
+  "name": "aml",
+  "version": "1.0.0",
+  "dependencies": {
+    "@intmax2-function/shared": "workspace:*",
+    "axios": "^1.7.9",
+    "hono": "^4.6.17"
+  },
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "tsx watch --env-file=./../../.env src/index.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "packageManager": "yarn@4.6.0",
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

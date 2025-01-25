@@ -1,0 +1,30 @@
+{
+  "name": "v1-mining-allocation",
+  "version": "1.0.0",
+  "dependencies": {
+    "@date-fns/utc": "^2.1.0",
+    "@intmax2-function/shared": "workspace:*",
+    "bignumber.js": "^9.1.2",
+    "date-fns": "^4.1.0",
+    "viem": "^2.22.10"
+  },
+  "scripts": {
+    "start": "node dist/index.js",
+    "start:short": "node dist/index.js short",
+    "start:long": "node dist/index.js long",
+    "dev": "tsx watch --env-file=./../../.env src/index.ts",
+    "dev:job:short": "tsx --env-file=./../../.env src/index.ts job short",
+    "dev:job:long": "tsx --env-file=./../../.env src/index.ts job long",
+    "dev:job:short:debug": "tsx --env-file=./../../.env src/index.ts job short debug",
+    "dev:job:long:debug": "tsx --env-file=./../../.env src/index.ts job long debug",
+    "dev:short": "tsx --env-file=./../../.env src/index.ts short",
+    "dev:long": "tsx --env-file=./../../.env src/index.ts long",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "packageManager": "yarn@4.1.1",
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
