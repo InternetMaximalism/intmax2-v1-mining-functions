@@ -2381,9 +2381,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"intmax2-v1-mining-services@workspace:.":
+"intmax2-v1-mining-functions@workspace:.":
   version: 0.0.0-use.local
-  resolution: "intmax2-v1-mining-services@workspace:."
+  resolution: "intmax2-v1-mining-functions@workspace:."
   dependencies:
     "@biomejs/biome": "npm:^1.9.4"
     jsonwebtoken: "npm:^9.0.2"
