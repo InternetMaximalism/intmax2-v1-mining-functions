@@ -36,6 +36,6 @@
     "@types/jsonwebtoken": "^9.0.7",
     "@types/semver": "^7",
     "tsx": "^4.19.2",
-    "typescript": "^5.7.3"
+    "typescript": "^5.9.2"
   }
 }
