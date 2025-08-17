@@ -1,6 +1,6 @@
 {
   "name": "intmax2-v1-mining-functions",
-  "private": true,
+  "license": "MIT",
   "version": "1.5.0",
   "workspaces": [
     "packages/*"
@@ -9,7 +9,6 @@
     "build": "yarn workspaces foreach --all --topological run build",
     "build:shared": "yarn workspace @intmax2-function/shared run build",
     "build:parallel": "yarn workspaces foreach --all -pt run build",
-    "test": "yarn workspace v1-mining-allocation test",
     "lint": "biome lint .",
     "format": "biome check --write --unsafe .",
     "check": "biome check ."
