@@ -15,7 +15,7 @@
     "ethers": "^6.13.5",
     "hono": "^4.6.17",
     "hono-rate-limiter": "^0.4.2",
-    "http-status": "^1.8.1",
+    "http-status": "^2.1.0",
     "jsonwebtoken": "^9.0.2",
     "pino": "^9.6.0",
     "pino-pretty": "^13.0.0",

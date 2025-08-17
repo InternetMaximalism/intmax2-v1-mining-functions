@@ -784,7 +784,7 @@ __metadata:
     ethers: "npm:^6.13.5"
     hono: "npm:^4.6.17"
     hono-rate-limiter: "npm:^0.4.2"
-    http-status: "npm:^1.8.1"
+    http-status: "npm:^2.1.0"
     jsonwebtoken: "npm:^9.0.2"
     pino: "npm:^9.6.0"
     pino-pretty: "npm:^13.0.0"
@@ -2314,10 +2314,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"http-status@npm:^1.8.1":
-  version: 1.8.1
-  resolution: "http-status@npm:1.8.1"
-  checksum: 10c0/6e4d66e87e50dbffd9023648cbb9869cc894efba0b919aa358753f5ae4249473c21e3cf122578ba0196727f34d77700f3c5eedc46388f63f5045e64921a86cef
+"http-status@npm:^2.1.0":
+  version: 2.1.0
+  resolution: "http-status@npm:2.1.0"
+  checksum: 10c0/1580ba46fc8bf1c777beec55a4f7c0aecdeb8d42fea8761d2040327183bb398947664cde15cf76256aa036d5ccccf7c6bea971e5ec20daa474bc40ef3e578f5d
   languageName: node
   linkType: hard
 
