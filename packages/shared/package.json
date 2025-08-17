@@ -12,7 +12,7 @@
     "bignumber.js": "^9.1.2",
     "date-fns": "^4.1.0",
     "envalid": "^8.0.0",
-    "ethers": "^6.13.5",
+    "ethers": "^6.15.0",
     "hono": "^4.6.17",
     "hono-rate-limiter": "^0.4.2",
     "http-status": "^1.8.1",
