@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "@intmax2-function/shared": "workspace:*",
-    "axios": "^1.7.9",
+    "axios": "^1.11.0",
     "hono": "^4.6.17"
   },
   "scripts": {
