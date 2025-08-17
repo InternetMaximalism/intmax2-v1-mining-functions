@@ -18,7 +18,7 @@
     "http-status": "^1.8.1",
     "jsonwebtoken": "^9.0.2",
     "pino": "^9.6.0",
-    "pino-pretty": "^13.0.0",
+    "pino-pretty": "^13.1.1",
     "poseidon-goldilocks": "^0.2.3",
     "semver": "^7.6.3",
     "simple-git": "^3.27.0",
