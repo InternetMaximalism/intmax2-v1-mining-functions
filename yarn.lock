@@ -792,7 +792,7 @@ __metadata:
     semver: "npm:^7.6.3"
     simple-git: "npm:^3.27.0"
     tsx: "npm:^4.19.2"
-    typescript: "npm:^5.7.3"
+    typescript: "npm:^5.9.2"
     viem: "npm:^2.22.10"
     zod: "npm:^3.24.1"
   languageName: unknown
@@ -1287,7 +1287,7 @@ __metadata:
     axios: "npm:^1.7.9"
     hono: "npm:^4.6.17"
     tsx: "npm:^4.19.2"
-    typescript: "npm:^5.7.3"
+    typescript: "npm:^5.9.2"
   languageName: unknown
   linkType: soft
 
@@ -2387,7 +2387,7 @@ __metadata:
   dependencies:
     "@biomejs/biome": "npm:^1.9.4"
     jsonwebtoken: "npm:^9.0.2"
-    typescript: "npm:^5.7.3"
+    typescript: "npm:^5.9.2"
   languageName: unknown
   linkType: soft
 
@@ -3567,23 +3567,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^5.7.3":
-  version: 5.7.3
-  resolution: "typescript@npm:5.7.3"
+"typescript@npm:^5.9.2":
+  version: 5.9.2
+  resolution: "typescript@npm:5.9.2"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10c0/b7580d716cf1824736cc6e628ab4cd8b51877408ba2be0869d2866da35ef8366dd6ae9eb9d0851470a39be17cbd61df1126f9e211d8799d764ea7431d5435afa
+  checksum: 10c0/cd635d50f02d6cf98ed42de2f76289701c1ec587a363369255f01ed15aaf22be0813226bff3c53e99d971f9b540e0b3cc7583dbe05faded49b1b0bed2f638a18
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@npm%3A^5.7.3#optional!builtin<compat/typescript>":
-  version: 5.7.3
-  resolution: "typescript@patch:typescript@npm%3A5.7.3#optional!builtin<compat/typescript>::version=5.7.3&hash=5786d5"
+"typescript@patch:typescript@npm%3A^5.9.2#optional!builtin<compat/typescript>":
+  version: 5.9.2
+  resolution: "typescript@patch:typescript@npm%3A5.9.2#optional!builtin<compat/typescript>::version=5.9.2&hash=5786d5"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10c0/6fd7e0ed3bf23a81246878c613423730c40e8bdbfec4c6e4d7bf1b847cbb39076e56ad5f50aa9d7ebd89877999abaee216002d3f2818885e41c907caaa192cc4
+  checksum: 10c0/34d2a8e23eb8e0d1875072064d5e1d9c102e0bdce56a10a25c0b917b8aa9001a9cf5c225df12497e99da107dc379360bc138163c66b55b95f5b105b50578067e
   languageName: node
   linkType: hard
 
@@ -3656,7 +3656,7 @@ __metadata:
     bignumber.js: "npm:^9.1.2"
     date-fns: "npm:^4.1.0"
     tsx: "npm:^4.19.2"
-    typescript: "npm:^5.7.3"
+    typescript: "npm:^5.9.2"
     viem: "npm:^2.22.10"
   languageName: unknown
   linkType: soft
@@ -3668,7 +3668,7 @@ __metadata:
     "@intmax2-function/shared": "workspace:*"
     axios: "npm:^1.7.9"
     tsx: "npm:^4.19.2"
-    typescript: "npm:^5.7.3"
+    typescript: "npm:^5.9.2"
     viem: "npm:^2.22.10"
   languageName: unknown
   linkType: soft
@@ -3685,7 +3685,7 @@ __metadata:
     hono: "npm:^4.6.17"
     semver: "npm:^7.6.3"
     tsx: "npm:^4.19.2"
-    typescript: "npm:^5.7.3"
+    typescript: "npm:^5.9.2"
     viem: "npm:^2.22.10"
   languageName: unknown
   linkType: soft
@@ -3696,7 +3696,7 @@ __metadata:
   dependencies:
     "@intmax2-function/shared": "workspace:*"
     tsx: "npm:^4.19.2"
-    typescript: "npm:^5.7.3"
+    typescript: "npm:^5.9.2"
     viem: "npm:^2.22.10"
   languageName: unknown
   linkType: soft
@@ -3708,7 +3708,7 @@ __metadata:
     "@google-cloud/firestore": "npm:^7.11.0"
     "@intmax2-function/shared": "workspace:*"
     tsx: "npm:^4.19.2"
-    typescript: "npm:^5.7.3"
+    typescript: "npm:^5.9.2"
     viem: "npm:^2.22.10"
   languageName: unknown
   linkType: soft
@@ -3719,7 +3719,7 @@ __metadata:
   dependencies:
     "@intmax2-function/shared": "workspace:*"
     tsx: "npm:^4.19.2"
-    typescript: "npm:^5.7.3"
+    typescript: "npm:^5.9.2"
     viem: "npm:^2.22.10"
   languageName: unknown
   linkType: soft
