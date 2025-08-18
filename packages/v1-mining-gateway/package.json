@@ -7,7 +7,7 @@
     "geoip-lite": "^1.4.10",
     "hono": "^4.6.17",
     "semver": "^7.6.3",
-    "viem": "^2.22.10"
+    "viem": "^2.34.0"
   },
   "scripts": {
     "start": "node dist/index.js",
