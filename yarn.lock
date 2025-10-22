@@ -782,7 +782,7 @@ __metadata:
     date-fns: "npm:^4.1.0"
     envalid: "npm:^8.0.0"
     ethers: "npm:^6.13.5"
-    hono: "npm:^4.6.17"
+    hono: "npm:^4.10.2"
     hono-rate-limiter: "npm:^0.4.2"
     http-status: "npm:^1.8.1"
     jsonwebtoken: "npm:^9.0.2"
@@ -1285,7 +1285,7 @@ __metadata:
   dependencies:
     "@intmax2-function/shared": "workspace:*"
     axios: "npm:^1.7.9"
-    hono: "npm:^4.6.17"
+    hono: "npm:^4.10.2"
     tsx: "npm:^4.19.2"
     typescript: "npm:^5.7.3"
   languageName: unknown
@@ -2272,10 +2272,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hono@npm:^4.6.17":
-  version: 4.6.17
-  resolution: "hono@npm:4.6.17"
-  checksum: 10c0/a951eb705841282c16a98ff0b45fb58d2325f945e839ec43c820c29dd380092382781a1fd4590d809a9a0ec9f4df6db738a06bf58c6ce2c279879374d070e2ab
+"hono@npm:^4.10.2":
+  version: 4.10.2
+  resolution: "hono@npm:4.10.2"
+  checksum: 10c0/783ec7f879c8a0a389b65a92e43e15a3d60e9e67da749b88a84e763d4625c22493461d4c2c6c40068c554e27abfcf94db06a861ce94f871dd7ada2c751ad7a3b
   languageName: node
   linkType: hard
 
@@ -3682,7 +3682,7 @@ __metadata:
     "@types/semver": "npm:^7"
     axios: "npm:^1.7.9"
     geoip-lite: "npm:^1.4.10"
-    hono: "npm:^4.6.17"
+    hono: "npm:^4.10.2"
     semver: "npm:^7.6.3"
     tsx: "npm:^4.19.2"
     typescript: "npm:^5.7.3"
